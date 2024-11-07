@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Alunos WEB",
+  title: "Discentes WEB",
 };
 
 export default function RootLayout({
