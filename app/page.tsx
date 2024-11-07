@@ -23,7 +23,7 @@ export default function Home() {
         <span>Alunos WEB  <a href="https://www.ifnmg.edu.br/cursos-sal1/cursos-superiores/373-portal/salinas/salinas-cursos-superiores/bacharelado-em-sistemas-de-informacao/14671-bacharelado-em-sistemas-de-informacao">BSI IFNMG <i>Campus</i> Salinas</a>.</span>
         <Link href="https://github.com/arthurfporto">Professor &#128073; Arthur Faria Porto</Link>
 
-        <h1 className='text-xl'>ALUNOS &#128071;</h1>
+        <h1 className='text-xl'>DISCENTES &#128071;</h1>
         <ul>
           {routes.map((route) => (
             <li key={route}>
